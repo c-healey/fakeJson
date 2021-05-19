@@ -1,7 +1,7 @@
 {
   "customers": [
     {
-      "contactId": 1,
+      "id": 1,
       "firstName": "Leanne",
       "lastName": "Graham",
       "midddleInitial": "",
@@ -26,7 +26,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 2,
+      "id": 2,
       "firstName": "Ervin",
       "lastName": "Howell",
       "midddleInitial": "",
@@ -51,7 +51,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 3,
+      "id": 3,
       "firstName": "Clementine",
       "lastName": "Bauch",
       "midddleInitial": "",
@@ -76,7 +76,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 4,
+      "id": 4,
       "firstName": "Patricia",
       "lastName": "Lebsack",
       "midddleInitial": "",
@@ -101,7 +101,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 5,
+      "id": 5,
       "firstName": "Chelsey",
       "lastName": "Dietrich",
       "midddleInitial": "",
@@ -126,7 +126,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 6,
+      "id": 6,
       "firstName": "Mrs. Dennis",
       "lastName": "",
       "midddleInitial": "Schulist",
@@ -151,7 +151,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 7,
+      "id": 7,
       "firstName": "Kurtis",
       "lastName": "Weissnat",
       "midddleInitial": "",
@@ -176,7 +176,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 8,
+      "id": 8,
       "firstName": "Nicholas",
       "lastName": "Runolfsdottir V",
       "midddleInitial": "",
@@ -201,7 +201,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 9,
+      "id": 9,
       "firstName": "Glenna",
       "lastName": "Reichert",
       "midddleInitial": "",
@@ -226,7 +226,7 @@
       "restriction": "None"
     },
     {
-      "contactId": 10,
+      "id": 10,
       "firstName": "Clementina",
       "lastName": "DuBuque",
       "midddleInitial": "",
